@@ -161,8 +161,8 @@ var store = [{
         "url": "https://minerworld.org/blog/gen-vibory-11-06/",
         "teaser": "https://minerworld.org/assets/images/thumbs/500x300.png"
       },{
-        "title": "PhoenixMiner -straps&#58; Тайминги памяти",
-        "excerpt":"Скачать версию 5.1c   Скачать с Официального сайта Phoenixminer.org   Скачать с Mega   Скачать с Яндекс Диска   Версия для Linux   пароль архива: phoenix   ","categories": ["programmy"],
+        "title": "PhoenixMiner -straps&#58; Тайминги памяти для AMD/NVIDIA [2020]",
+        "excerpt":"В Феникс майнере есть команды для установки таймингов видеопамяти: -straps, -vmt и -vmr   Как использовать straps тайминги?   Например, чтобы использовать тайминг номер 4:      укажите в батнике команду -straps 4   сам батник PhoenixMiner запустите от имени администратора   Скачать версию 5.1c   Скачать с Официального сайта Phoenixminer.org   Скачать с Mega   Скачать с Яндекс Диска   Версия для Linux   пароль архива: phoenix   ","categories": ["programmy"],
         "tags": ["Майнинг","PhoenixMiner"],
         "url": "https://minerworld.org/programmy/strap-phoenix-miner/",
         "teaser": "https://minerworld.org/assets/images/thumbs/500x300.png"
