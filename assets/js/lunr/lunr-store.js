@@ -160,4 +160,10 @@ var store = [{
         "tags": [],
         "url": "https://minerworld.org/blog/gen-vibory-11-06/",
         "teaser": "https://minerworld.org/assets/images/thumbs/500x300.png"
+      },{
+        "title": "PhoenixMiner -straps&#58; Тайминги памяти",
+        "excerpt":"Скачать версию 5.1c   Скачать с Официального сайта Phoenixminer.org   Скачать с Mega   Скачать с Яндекс Диска   Версия для Linux   пароль архива: phoenix   ","categories": ["programmy"],
+        "tags": ["Майнинг","PhoenixMiner"],
+        "url": "https://minerworld.org/programmy/strap-phoenix-miner/",
+        "teaser": "https://minerworld.org/assets/images/thumbs/500x300.png"
       },]
